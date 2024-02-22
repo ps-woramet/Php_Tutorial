@@ -4,7 +4,7 @@ echo
 การสร้างตัวแปร
     $x = 5;
 
-การสร้างfunciton 
+การสร้างfunction
     function myFunc($myname){
         echo 'this is my function ' . $myname;
     }
